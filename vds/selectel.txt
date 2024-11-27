@@ -1,0 +1,19 @@
+selectel.ru/
+numberAcc: 389489
+email: nikitakhalturinzak@gmail.com
+pass: HypnBBU48$.R*w
+
+host: 87.228.37.150
+ssh-key: Hoopch4ik
+ssh: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCDyfYKfxnrlOgvowADc6UQAQxB3vvGq9sf/+oWYxNn8PNX/4Pym2rcZ9+XZ3iab1jKQdmg/pMJDbvgT58CM04pm7iTvV+RjEoUqf3qFrXb/G/iawmWj/wbJszXLcO2l1O3CYvaeiNFLFRA6FXcGIhj/43eVP4s28Wa8OnitoyRHfBoBn1JLB1cowa67dapQPIhigY0yMjoe7NIh7O6074pc9lJWXvHDdQdq56K3u8wQArgs9Dbz1vCFyucX3mBgW5SRsUkan98L4TemNhPWX3XpxmQBja0luz6wQte4hOEHaN0dJ6eyeJlDKzAvK/SGaBZ1wd0iE9BXSkpbncNeNG1 rsa-key-20241125
+key fingerprint: ssh-rsa 2048 SHA256:LkRqpIdgjuhDYxw3dp0A8wvqbIkAVbGynpyyJtHaTVE
+|----------------|
+|--root----------| (Hoopch4ik)
+|- chtzd73Q1T41 -|
+|----------------|
+|----------------|
+|--root----------| (Naja)
+|- 8CT7fN5qIQyD -|
+|----------------|
+sshName: email
+pass: AYArZOug11q0
